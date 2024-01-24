@@ -1,0 +1,28 @@
+[session] Remote player added. Player handle: 0(1)
+[SessionPlayer] 'Reserve' (up)!
+[SessionPlayer] 'WaitForJoin' (up)!
+[session] Remote player added. Player handle: 0(1)
+[SessionPlayer] 'Reserve' (up)!
+[SessionPlayer] 'WaitForJoin' (up)!
+[session] Remote player added. Player handle: 0(1)
+[SessionPlayer] 'Reserve' (up)!
+[SessionPlayer] 'WaitForJoin' (up)!
+[SessionPlayer] 'WaitForJoin' (down)!
+[session] Player removed. Player handle: 0(1)
+[online] Removed Peer #0.
+[SessionPlayer] 'Reserve' (down)!
+[session] Remote player added. Player handle: 0(1)
+[SessionPlayer] 'Reserve' (up)!
+[SessionPlayer] 'WaitForJoin' (up)!
+[SessionPlayer] 'WaitForJoin' (down)!
+[session] Player removed. Player handle: 0(1)
+[online] Removed Peer #0.
+[SessionPlayer] 'Reserve' (down)!
+[SessionPlayer] 'WaitForJoin' (down)!
+[session] Player removed. Player handle: 0(1)
+[online] Removed Peer #0.
+[SessionPlayer] 'Reserve' (down)!
+[SessionPlayer] 'WaitForJoin' (down)!
+[session] Player removed. Player handle: 0(1)
+[online] Removed Peer #0.
+[SessionPlayer] 'Reserve' (down)!
