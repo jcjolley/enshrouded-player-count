@@ -5,7 +5,7 @@ use std::process::{ Command, Stdio };
 fn main() {
     let mut cmd= Command::new("journalctl")
         .arg("-b")
-        .arg("-u enshrouded.service")
+        .arg("-uenshrouded.service")
         .arg("-f")
         .stdout(Stdio::piped())
         .spawn()
